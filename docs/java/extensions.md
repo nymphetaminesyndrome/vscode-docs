@@ -7,7 +7,7 @@ PageTitle: Java extensions for Visual Studio Code
 DateApproved: 1/4/2022
 MetaDescription: Popular Java extensions for Visual Studio Code
 ---
-# Java extensions for Visual Studio Code
+# Java extensions for Visual Studio Code extensions for Visual/vsgallery/c6d1c265-7007-405c-a68b-5606af238ece
 
 Thanks to the great Java community around Visual Studio Code, you can use a wide range of extensions to enhance your Java development experience.
 
